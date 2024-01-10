@@ -1,4 +1,4 @@
-mport pygame
+import pygame
 from tkinter import Tk, Button, filedialog, Listbox, Scrollbar, Scale
 
 pygame.init()
